@@ -1,5 +1,6 @@
 To install
-    git clone git@github.com:sapient/global-seeds.git
+    git clone git://github.com/sapient/global-seeds.git
+
 
 Open the folder and run 
     bundle install
