@@ -1,0 +1,12 @@
+To install
+    git clone git@github.com:sapient/global-seeds.git
+
+Open the folder and run 
+    bundle install
+
+Then simple run
+    ruby import.rb
+
+The seed files will be created in the same directory
+
+Good luck Mantis
